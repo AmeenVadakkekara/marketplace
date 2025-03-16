@@ -52,10 +52,3 @@ This project is configured for easy deployment on Vercel. Simply:
 2. Import your repository in Vercel
 3. Deploy!
 
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-MIT License - feel free to use this project for your own learning!

@@ -14,7 +14,7 @@ A modern, responsive e-commerce platform built with React and Material-UI. Featu
 
 ## Live Demo
 
-[Visit the live site](https://marketplace-demo.vercel.app)
+Visit the live site : https://marketplace-rho-orcin.vercel.app/
 
 ## Tech Stack
 
